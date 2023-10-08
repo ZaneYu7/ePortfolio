@@ -7,10 +7,9 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
+		linkedin: "https://linkedin.com/in/zane-yu-649525244",
 		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		Blogger: "https://www.blogger.com/blog/posts/587944430766123401?pli=1",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
@@ -19,12 +18,24 @@ const INFO = {
 		title: "Full-stack web developer and a guitar amateur.",
 		description:
 			"I am a fullstack developer with expertise in React. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+    skill:
+      "Programming Skills: Java, JavaScript, Python, MongoDB, Firebase Development Tools:	Git, VSCode, IntelliJ IDEA, Android Studio Web Development: HTML, CSS, React, Bootstrap, Node.js, Docker, ThreeJS"
 	},
 
 	about: {
 		title: "I’m Zane Yu. I live in Adelaide, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Education:",
+    education1:
+      "Master of Computer Science	February 2020 - December 2022 University of Adelaide, South Australia",
+    education2:
+      "Bachelor of Electronic Information Science and Technology September 2016 - June 2020 Hubei Minzu University, China",
+    experienceTitle:
+      "Experience",
+    experience:
+      "Sakura Sushi February 2023 - Now",
+    experienceDescription:  
+    "Receptionist (Part-time) Greeted and welcomed guests with a warm and friendly demeanor, ensuring a positive first impression and exceptional customer service Collaborated closely with the restaurant staff, including servers and managers, to ensure smooth operations and seamless communication between front-of-house and back-of-house teams",
 	},
 
 	articles: {
