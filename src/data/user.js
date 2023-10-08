@@ -4,6 +4,7 @@ const INFO = {
 		name: "Zane Yu",
 		email: "zane.zongzeyu@gmail.com",
 		logo: "../logo.png",
+    phoneNumber: "0123456789",
 	},
 
 	socials: {
